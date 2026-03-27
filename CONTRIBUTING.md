@@ -15,7 +15,7 @@ Thank you for your interest in contributing! This handbook is a community-driven
 
 ```bash
 # Clone the repo
-git clone https://github.com/agentic-handbook/agentic-engineering-handbook.git
+git clone https://github.com/nhkhang/agentic-engineering-handbook.git
 cd agentic-engineering-handbook
 
 # Install dependencies
@@ -62,4 +62,4 @@ All contributors are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md
 
 ## Questions?
 
-Open an issue using the [Content Request](https://github.com/agentic-handbook/agentic-engineering-handbook/issues/new?template=content-request.md) template if you'd like to propose a new topic before writing.
+Open an issue using the [Content Request](https://github.com/nhkhang/agentic-engineering-handbook/issues/new?template=content-request.md) template if you'd like to propose a new topic before writing.

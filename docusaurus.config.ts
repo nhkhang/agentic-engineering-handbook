@@ -11,10 +11,10 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://agentic-handbook.github.io',
+  url: 'https://nhkhang.github.io',
   baseUrl: '/agentic-engineering-handbook/',
 
-  organizationName: 'agentic-handbook',
+  organizationName: 'nhkhang',
   projectName: 'agentic-engineering-handbook',
 
   onBrokenLinks: 'throw',
@@ -62,7 +62,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/agentic-handbook/agentic-engineering-handbook/tree/main/',
+            'https://github.com/nhkhang/agentic-engineering-handbook/tree/main/',
           versions: {
             current: {
               label: 'Next',
@@ -98,7 +98,7 @@ const config: Config = {
           label: 'Docs',
         },
         {
-          href: 'https://github.com/agentic-handbook/agentic-engineering-handbook',
+          href: 'https://github.com/nhkhang/agentic-engineering-handbook',
           label: 'GitHub',
           position: 'right',
         },
@@ -121,7 +121,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/agentic-handbook/agentic-engineering-handbook',
+              href: 'https://github.com/nhkhang/agentic-engineering-handbook',
             },
           ],
         },

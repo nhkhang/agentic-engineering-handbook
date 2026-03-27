@@ -9,7 +9,7 @@ Built with [Docusaurus](https://docusaurus.io/).
 ## Quick Start
 
 ```bash
-git clone https://github.com/agentic-handbook/agentic-engineering-handbook.git
+git clone https://github.com/nhkhang/agentic-engineering-handbook.git
 cd agentic-engineering-handbook
 npm install
 npm start

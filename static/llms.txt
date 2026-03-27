@@ -5,4 +5,4 @@ A living handbook for building, operating, and collaborating with AI agents.
 This site covers foundations, design patterns, tooling, workflows, human-agent collaboration, evaluation, safety, and contributing guidelines for agentic engineering.
 
 Full content is available via the GitHub repo's raw markdown files:
-https://github.com/agentic-handbook/agentic-engineering-handbook/tree/main/docs
+https://github.com/nhkhang/agentic-engineering-handbook/tree/main/docs
